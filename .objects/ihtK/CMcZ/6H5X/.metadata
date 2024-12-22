@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Challenger",
+  "Type": "Screen",
+  "Id": "6H5X4BX7eUS8GKijcad4jA",
+  "Reference": "NXvnY1hZ-k-1IXp_DK7-ag/6H5X4BX7eUS8GKijcad4jA",
+  "ParentRef": "NXvnY1hZ-k-1IXp_DK7-ag/CMcZToSS10STqKYswRhwtQ",
+  "Created": "2024-12-22T01:37:29.9189762Z",
+  "Updated": "2024-12-22T01:49:14.6363952Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

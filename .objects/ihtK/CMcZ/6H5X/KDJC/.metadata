@@ -1,0 +1,13 @@
+﻿{
+  "Name": "chrome.exe Desafio RPA",
+  "Type": "Element",
+  "Id": "KDJC2SZ8HUyMgxOmGx9I5g",
+  "Reference": "NXvnY1hZ-k-1IXp_DK7-ag/KDJC2SZ8HUyMgxOmGx9I5g",
+  "ParentRef": "NXvnY1hZ-k-1IXp_DK7-ag/6H5X4BX7eUS8GKijcad4jA",
+  "Created": "2024-12-22T02:04:37.01237Z",
+  "Updated": "2024-12-22T02:04:37.01237Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

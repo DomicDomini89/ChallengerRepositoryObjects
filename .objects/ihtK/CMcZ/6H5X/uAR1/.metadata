@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Endereço",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "uAR1YTLO8ka0qASFVpq1hA",
+  "Reference": "NXvnY1hZ-k-1IXp_DK7-ag/uAR1YTLO8ka0qASFVpq1hA",
+  "ParentRef": "NXvnY1hZ-k-1IXp_DK7-ag/6H5X4BX7eUS8GKijcad4jA",
+  "Created": "2024-12-22T01:48:25.3526861Z",
+  "Updated": "2024-12-22T01:48:25.3526861Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

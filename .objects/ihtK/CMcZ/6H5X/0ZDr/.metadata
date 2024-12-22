@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Sobrenome",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "0ZDrL6Esk0C8DyC4jl23FQ",
+  "Reference": "NXvnY1hZ-k-1IXp_DK7-ag/0ZDrL6Esk0C8DyC4jl23FQ",
+  "ParentRef": "NXvnY1hZ-k-1IXp_DK7-ag/6H5X4BX7eUS8GKijcad4jA",
+  "Created": "2024-12-22T01:48:25.4789394Z",
+  "Updated": "2024-12-22T01:48:25.4789394Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

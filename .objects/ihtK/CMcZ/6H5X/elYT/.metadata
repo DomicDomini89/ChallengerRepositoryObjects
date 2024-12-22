@@ -1,0 +1,13 @@
+﻿{
+  "Name": "nome da empresa",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "elYTRB3VzUSI9Fv0Uo08-A",
+  "Reference": "NXvnY1hZ-k-1IXp_DK7-ag/elYTRB3VzUSI9Fv0Uo08-A",
+  "ParentRef": "NXvnY1hZ-k-1IXp_DK7-ag/6H5X4BX7eUS8GKijcad4jA",
+  "Created": "2024-12-22T01:48:25.0730407Z",
+  "Updated": "2024-12-22T01:48:25.0730407Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

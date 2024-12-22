@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Enviar",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "NFksA2LTfUuocqbMAsaMjA",
+  "Reference": "NXvnY1hZ-k-1IXp_DK7-ag/NFksA2LTfUuocqbMAsaMjA",
+  "ParentRef": "NXvnY1hZ-k-1IXp_DK7-ag/6H5X4BX7eUS8GKijcad4jA",
+  "Created": "2024-12-22T01:48:25.6884444Z",
+  "Updated": "2024-12-22T01:48:25.6884444Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
